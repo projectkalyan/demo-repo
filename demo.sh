@@ -1,1 +1,1 @@
-echo "this is i m triggering from the jenkins job"
+echo "I got this file changed to show the integration between github and jenkins"
